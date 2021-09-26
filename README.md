@@ -1,2 +1,2 @@
 # frog
-This is just me playing 
+Change your password through cmd
